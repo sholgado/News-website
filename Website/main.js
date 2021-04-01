@@ -1,3 +1,3 @@
 const language = 'Javascript';
 
-console.log(language)
+console.log(language);
