@@ -1,10 +1,15 @@
 .heading{
-  background: #f0db4f;
+  background: #ffc93c;
   color:#323330;
-  height:80px;
+  height:90px;
   width:100%;
   display: block;
   position: absolute;
   margin: 0;
-  padding: 30px;
+  padding: 0;
+  text-align: center;
+}
+body{
+    margin: 0;
+  padding: 0;
 }
